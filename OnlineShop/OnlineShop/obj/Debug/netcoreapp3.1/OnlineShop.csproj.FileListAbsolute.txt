@@ -1,0 +1,7 @@
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ammohammed\Downloads\onlineshop-master\onlineshop-master\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.MvcApplicationPartsAssemblyInfo.cache
